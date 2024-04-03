@@ -1,1 +1,1 @@
-# cores
+O projeto envolve o desenvolvimento de um aplicativo Android com várias atividades, cada uma representando uma tela com botões para mudar a cor de fundo e navegar entre as telas. No entanto, há uma condição específica: o botão de voltar na primeira tela e o botão de avançar na quarta tela devem estar desativados.
